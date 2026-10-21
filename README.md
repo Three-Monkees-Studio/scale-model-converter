@@ -4,7 +4,7 @@ A free, offline-friendly 3D printing scale calculator by **Three Monkees Studio*
 
 [**Launch the Scale Model Converter**](https://three-monkees-studio.github.io/scale-model-converter/)
 
-![Three Monkees Studio Scale Model Converter](screenshot.png)
+![Three Monkees Studio Scale Model Converter](Screenshot.png)
 
 ## Features
 
